@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-![Made With](https://img.shields.io/badge/Made%20With-Python-blue?style=for-the-badge&logo=python)
 ![VS Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 A simple and beginner-friendly **Python application** that generates QR codes from text, URLs, phone numbers, email addresses, or any other input and saves them as PNG images.
@@ -209,7 +208,7 @@ This project is licensed under the **MIT License**.
 
 # 👨‍💻 Author
 
-**Jonathan Tshena**
+**Katlego Sambo**
 
 🐍 Python Developer in Progress  
 🚀 Learning by Building Real Projects
